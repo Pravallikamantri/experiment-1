@@ -1,0 +1,8 @@
+rollnumber = int(input("enter the roll number:"))
+print ("rollnumber is", type(rollnumber))
+name = (input("enter a name:"))
+print ("name is", type(name))
+marks = float(input("enter marks:"))
+print ("marks is", type(marks))
+grade = chr(input("enter grade:"))
+print ("grade is", type(grade))
